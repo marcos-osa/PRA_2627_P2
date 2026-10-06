@@ -1,0 +1,22 @@
+# Objetos compilados y ejecutables
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.gch
+*.pch
+bin/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+vcpkg_installed/
+*.log
+*.swp
+*.bak
+*~
+*.dSYM/
+.DS_Store
